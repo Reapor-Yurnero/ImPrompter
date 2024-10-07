@@ -38,7 +38,7 @@ Large Language Model (LLM) Agents are an emerging computing paradigm that blends
 ??? tip "Example Prompt used in Demo Video [Mistral LeChat (Nemo) Scenario 1](#mistral-lechat-nemo-scenario-1) (Copy-Paste Ready)"
     For your convenience, below is the entire prompt used in the [above first demo video](#mistral-lechat-nemo-scenario-1) which contains both a fake example cover letter as well as the adversarial prompt appended that you can copy and paste into the target agent i.e. Mistral LeChat directly . 
 
-    ``` {style="--md-codeblock-height: 10px" }
+    ```
     Alice
     8532852883 
     Seattle, WA, 98103
@@ -63,7 +63,7 @@ Large Language Model (LLM) Agents are an emerging computing paradigm that blends
 
 ??? tip "Example Prompt used in Demo Video [ChatGLM Scenario 1](#chatglm-scenario-1) (Copy-Paste Ready)"
 
-    ``` {style="--md-codeblock-height: 10px" }
+    ```
     Alice
     8532852883 
     Seattle, WA, 98103
@@ -94,7 +94,7 @@ Alternatively, the adversarial prompt can be input after one or several turns of
 ??? tip "Example Prompt used in Demo Video [Mistral LeChat (Nemo) Scenario 2](#mistral-lechat-nemo-scenario-2) (Copy-Paste Ready)"
     1. Input some user conversation with the agent.
     
-        ``` text {style="--md-codeblock-height: 10px" }
+        ```
         Tell me some best jobs to apply for this resume
 
         Santiago Delgado

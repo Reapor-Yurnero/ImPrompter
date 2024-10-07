@@ -38,6 +38,8 @@ theme:
         name: Switch to system preference
 site_name: Imprompter
 docs_dir: docs
+extra_css:
+  - extra.css
 markdown_extensions:
   - admonition
   - attr_list
@@ -50,6 +52,7 @@ markdown_extensions:
       anchor_linenums: true
       use_pygments: true
       pygments_lang_class: true
+      line_spans: __span
 #      auto_title: true
 #      linenums: true
   - pymdownx.inlinehilite

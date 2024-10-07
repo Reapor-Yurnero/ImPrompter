@@ -20,4 +20,6 @@
 
 .md-typeset pre > code {
     max-height: var(--md-codeblock-height, 20rem); /* 5rem will be used as a fallback value */
+    white-space : pre-wrap !important;
+    word-break: break-word;
 }

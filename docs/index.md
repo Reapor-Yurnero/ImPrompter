@@ -3,22 +3,7 @@ hide:
   - navigation
 ---
 
-<h1 style="text-align: center;">
-<b>Imprompter: Tricking Language Model Agents into Misusing Tools Using Adversarial Examples</b>
-</h1>
-<h3 style="text-align: center; margin-top: -1rem;">
-    <a href="https://xhfu.me/">Xiaohan Fu</a><sup>1</sup>,
-    <a href="mailto:shl060@ucsd.edu">Shuheng Li</a><sup>1</sup>,
-    <a href="mailto:ziw224@ucsd.edu">Zihan Wang</a><sup>1</sup>,
-    <a href="https://tc-imba.github.io/">Yihao Liu</a><sup>2</sup>,
-    <a href="mailto:rgupta@ucsd.edu">Rajesh Gupta</a><sup>1</sup>,
-    <a href="mailto:tberg@ucsd.edu">Taylor Berg-Kirkpatrick</a><sup>1</sup>,
-    <a href="mailto:efernandes@ucsd.edu">Earlence Fernandes</a><sup>1</sup>
-</h3>
-<p style="text-align: center; margin-top: -0.5rem;">
-    <sup>1</sup>University of California, San Diego,
-    <sup>2</sup>Nanyang Technological University
-</p>
+<h1 style="margin-bottom: -1rem"></h1>
 
 ## Abstract
 
